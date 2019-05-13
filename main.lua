@@ -1,7 +1,7 @@
 
 -----------------------------------------------------------------------------------------
 --
--- Created by: Aden Rao
+-- Created by: Teddy Sannan
 -- Created on: 
 -- 
 -- This file animates one knight character to walk and the other ninja character to run. 
